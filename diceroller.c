@@ -6,7 +6,7 @@
 int main(int argc, char const *argv[])
 {
     if ((argc < 2)||(argv[1] == "-h")){
-        printf("My nibba,\n     You have just discovered a DANK piece of code for all your adventures\n     Write the dice's sides and the number of rolls\n     e.g.\n     diceroll 1d8\n     diceroll 1d12 5d2\n");
+        printf("My nibba,\n     You have just discovered a DANK piece of code for all your adventures\n     Write the dice's sides and the number of rolls in ROLLSdSIDES format\n     e.g.\n     diceroll 1d8\n     diceroll 1d12 5d2\n");
         return koulour;
     }
     srand(time(NULL));

@@ -1,7 +1,7 @@
 # diceroller
 A preety nice dice roller
 
-# Bild instructions
+# Build instructions
 Just download and and build with your favorite C compiler.
 
 # Use
